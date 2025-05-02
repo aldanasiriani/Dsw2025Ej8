@@ -3,6 +3,6 @@
 public enum Estado
 {
     Activa = 1,
-    Inactiva,
-    Suspendida
+    Inactiva = 2,
+    Suspendida = 3
 }
